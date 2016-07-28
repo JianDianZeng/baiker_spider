@@ -1,4 +1,5 @@
 #codig:utf-8
+#start profile
 import url_manager,html_downloader,html_parser,html_output
 class SpiderMain(object):
     def __init__(self):
